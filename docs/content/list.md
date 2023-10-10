@@ -14,4 +14,4 @@ On the right side of the page is the list of current content organised in alphab
 
 Click the edit button to be taken to the editor for that page or delete to permanently delete it. You will be asked to confirm your deletion for safety.
 
-![Content List](/images/content-list.png)
+![Content List](../images/content-list.png)
