@@ -7,6 +7,8 @@
 
     * [List View](/content/list.md)
     * [Single View](/content/single.md)
+        * [Left Column](/content/single.md?id=left-column)
+        * [Right Column](/content/single.md?id=right-column)
 
 * Councillors & Employees
 
