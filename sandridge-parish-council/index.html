@@ -19,7 +19,22 @@
       coverpage: true,
       maxLevel: 4,
       subMaxLevel: 3,
-      themeColor: '#E20C1A'
+      themeColor: '#E20C1A',
+      formatUpdated: '{DD}/{MM} {HH}:{mm}',
+      formatUpdated: function (time) {
+        return "Last updated on " + time;
+      },
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            return (
+              html +
+              '\n----\n' +
+              '{docsify-updated} ' 
+            );
+          });
+        }
+      ]
     }
   </script>
   <!-- Docsify v4 -->
