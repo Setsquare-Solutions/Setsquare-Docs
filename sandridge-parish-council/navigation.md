@@ -4,7 +4,7 @@ The navigation page is where you will set which pages and links appear within th
 
 You can select which navigation you are editing by using the dropdown at the top of the page.
 
-![Navigation Dropdown](../_images/navigation-dropdown.png)
+![Navigation Dropdown](/_images/navigation-dropdown.png)
 
 ## Adding an Item
 
@@ -18,7 +18,7 @@ You are able to choose an existing page from the drop down, which will automatic
 * Visible - whether the page is visible in the menu or not. Setting this to NO can be useful if you want to temporarily hide a page, or if it is still under construction.
 * Open in - for internal links choose Current Window, for third party links choose New Window.
 
-![Navigation Add Item](../_images/navigation-add-item.png)
+![Navigation Add Item](/_images/navigation-add-item.png)
 
 ## Updating Existing Structure
 
@@ -32,6 +32,6 @@ Click the red bin button to delete an item, or the blue pen button to edit the i
 
 After re-ordering the menu and making any edits or deletions, scroll to the very bottom of the page and click the Save Structure button.
 
-![Navigation Structure](../_images/navigation-structure.png)
+![Navigation Structure](/_images/navigation-structure.png)
 
-![Navigation Single](../_images/navigation-single.png)
+![Navigation Single](/_images/navigation-single.png)
