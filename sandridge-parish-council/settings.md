@@ -6,20 +6,20 @@ Settings are split up into four groups. When editing and saving settings in one 
 
 The first group is page settings, here you can choose the homepage and page which displays news articles. Ignore the comment approval as this is an unused feature to be removed shortly.
 
-![Page Settings](../_images/settings-page.png)
+![Page Settings](_images/settings-page.png)
 
 ## Social Media
 
 Within Social Media you can link to your social media accounts. Simply copy and paste the url from your profile into the relevant box and an icon will appear in the website footer linking
 to that profile.
 
-![Social Media](../_images/settings-social.png)
+![Social Media](_images/settings-social.png)
 
 ## Website Details
 
 Website details contains general information about the site which is displayed in the header and footer. Here you can set the website name, address, contact details and logo.
 
-![Website Details](../_images/settings-website.png)
+![Website Details](_images/settings-website.png)
 
 ## Other Settings
 
@@ -31,4 +31,4 @@ ReCaptcha is a service which prevents bots from filling in forms.
 
 Allow sign-in and allow sign-up are only relevant if a secure area of the website has been created for visitors of the website to use.
 
-![Other Settings](../_images/settings-other.png)
+![Other Settings](_images/settings-other.png)
