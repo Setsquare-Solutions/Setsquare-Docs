@@ -1,25 +1,17 @@
 # Getting Started
 
-## Logging in
+## Quick Overview
 
-To access the CMS go to [https://sandridge-pc.gov.uk/admin](https://sandridge-pc.gov.uk/admin)
+This documentation has been broken down into each major section of the CMS. 
 
-Fill in your supplied username or email address and password. Then click the 
-Log In button.
+In many cases each page of the CMS has multiple views. Usually a list view which contains an overview of all individual items within that section, and allows you to create additional items.
 
-You can also check the “Remember me” box to stay logged in even after closing 
-your browser.
+There is also a single view which is where you will edit those individual items.
 
-![Login Screen](images/login-screen.png)
+Some pages in the CMS contain additional views which contain information relevant to that type of content.
 
-## Resetting your password
+## Navigation
 
-If you have forgotten your password then click the “Forgot Password?” link below the log in button. You will be taken to a new page where you can enter your email address.
+To navigate this documentation you can click through the links in the left hand sidebar. In some cases clicking a link may expand to display additional sub links. You can cilck these sub links to quickly navigate to sub sections within that page. 
 
-After entering your email a link will be sent to you that will allow you to choose a new password. This link will be valid for 60 minutes, afterwards you will need to request a new link.
-
-![Forgot Password Screen](images/forgot-password.png)
-
-After resetting your password by entering a new one and confirming it. You will be able to return to the login screen to log in using your newly chosen password.
-
-![Forgot Password Screen](images/reset-password.png)
+## [Start by learning how to login](/getting-started/login.md) or [skip to the dashboard](/getting-started/dashboard.md)
