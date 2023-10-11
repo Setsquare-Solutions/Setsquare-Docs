@@ -14,4 +14,4 @@ Some pages in the CMS contain additional views which contain information relevan
 
 To navigate this documentation you can click through the links in the left hand sidebar. In some cases clicking a link may expand to display additional sub links. You can cilck these sub links to quickly navigate to sub sections within that page. 
 
-## [Start by learning how to login](/getting-started/login.md) or [skip to the dashboard](/getting-started/dashboard.md)
+### [Start by learning how to login](/getting-started/login.md) or [skip to viewing the dashboard](/getting-started/dashboard.md)
