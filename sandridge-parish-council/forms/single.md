@@ -2,6 +2,12 @@
 
 Forms may look intimidating to create, but they are fairly simple once you understand them. 
 
+They are built using a format call JavaScript Object Notation (JSON), which is a simple text file that is designed to be interpreted by computers but remain readable and understandable by humans. 
+
+JSON consists of collections of square and curly brackets that are filled with values. 
+
+In the case of forms each set of brackets represents an input within the form, and the values represent parameters which define how that input should behave.
+
 ## Creating Structure
 
 On the left is a field to set the name of the form, this will appear in the subject line sent to you. There is also a form structure input and a choose input dropdown.
