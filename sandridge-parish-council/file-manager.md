@@ -6,4 +6,4 @@ Folders can be navigatied by double clicking to open them. New folders can be cr
 
 Files can also be uploaded from your device or computer by clicking the plus button. Make sure that you first navigate into the folder that you want the file to be uploaded into.
 
-![File Manager](../_images/filemanager.png)
+![File Manager](_images/filemanager.png)
