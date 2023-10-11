@@ -1,6 +1,6 @@
 <!--_coverpage.md-->
 
-![Logo](/_images/setsquare-logo.png)
+![Logo](../_images/setsquare-logo.png)
 
 # Sandridge Parish Council
 
