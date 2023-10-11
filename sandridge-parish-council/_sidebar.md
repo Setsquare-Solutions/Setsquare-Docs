@@ -31,8 +31,8 @@
 
 * Users & Profile
 
-    * [Users](/users.md)
-    * [Profile](/profile.md)
+    * [Users](/users-and-profile/users.md)
+    * [Profile](/users-and-profile/profile.md)
 
 * Settings
 
