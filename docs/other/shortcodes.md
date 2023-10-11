@@ -1,6 +1,4 @@
-# Other
-
-## Shortcodes
+# Shortcodes
 
 Shortcodes are small pieces of special text that can be inserted into a page to perform more complex functions, that you may not be able to create yourself through the content editor. 
 
