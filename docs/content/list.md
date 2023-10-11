@@ -1,6 +1,4 @@
-# Pages, News & Events
-
-## List View
+# List View - Pages, News & Events
 
 These three categories of content are managed in a similar way to each other with some minor differences between the three.
 
@@ -14,4 +12,4 @@ On the right side of the page is the list of current content organised in alphab
 
 Click the edit button to be taken to the editor for that page or delete to permanently delete it. You will be asked to confirm your deletion for safety.
 
-![Content List](../images/content-list.png)
+![Content List](../_images/content-list.png)
