@@ -1,7 +1,7 @@
 * Getting Started
 
-    * [Logging in](/?id=logging-in)
-    * [Dashboard](/dashboard.md)
+    * [Logging in](/getting-started/login.md)
+    * [Dashboard](/getting-started/dashboard.md)
 
 * Pages, News & Events
 
