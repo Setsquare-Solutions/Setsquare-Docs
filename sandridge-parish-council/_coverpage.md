@@ -7,7 +7,3 @@
 ## Content Management System
 
 [Getting Started](/?id=getting-started)
-
-<!-- background image -->
-
-![](/_images/bg.jpg)
