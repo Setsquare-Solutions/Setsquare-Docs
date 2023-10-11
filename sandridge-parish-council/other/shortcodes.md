@@ -41,7 +41,7 @@ Shortcodes have to be created individually so you aren’t able to pass any info
     * `image=""`    - the path to a single image in the file manager. Multiple can be supplied, add a number to the end. (image1="", image2="")
     * `sort=""`     - **asc** or **desc**, should the images be displayed alphabetically or reverse alphabetically
     * `id=""`       - a unique id for the galley. Allows images to be shown full screen with arrows to navigate through each
-    * `captions=""` - a comma separated list of captions for each image. Captions will be added to the images in the order they appear in the gallery. Enter no value to skip a caption. E.g. (caption 1,caption 2,,caption 4)
+    * `captions=""` - a comma separated list of captions for each image. Captions will be added to the images in the order they appear in the gallery. Enter no value to skip a caption. e.g. (caption 1,caption 2,,caption 4)
 
 ---
 
@@ -58,7 +58,7 @@ Shortcodes have to be created individually so you aren’t able to pass any info
     * `captions=""`     - a comma separated list of captions in the same order as the supplied images
     * `fits=""`         - **cover** or **contain**, cover will crop the image to fit the same height as the tallest, contain will show the whole image but can lead to white space around the edges
     * `wrap=""`         - **true** or **false**, true will loop the slider to the beginning once the end is reached
-    * `interval=""`     - a number in milliseconds for how fast to loop through automatically. E.g. 1000 is 1 second
+    * `interval=""`     - a number in milliseconds for how fast to loop through automatically. e.g. 1000 is 1 second
     * `aspect-ratio=""` - **portrait**, **landscape** or **square**, how the images will be cropped
     * `controls=""`     - **true** or **false**, if the arrows should be shown
     * `indicators=""`   - **true** or **false**, if the dots along the bottom showing how many slides should be shown
