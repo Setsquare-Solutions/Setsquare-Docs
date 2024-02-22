@@ -1,1 +1,1 @@
-* [General Documentation](/setsquare-cms/)
+* [General Documentation](https://docs.setsquaresolutions.com/setsquare-cms/#/)
