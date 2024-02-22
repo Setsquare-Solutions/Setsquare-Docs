@@ -11,7 +11,7 @@
 * Forms
 
     * [List View](/forms/list.md)
-    * [Single View](/form/single.md)
+    * [Single View](/forms/single.md)
     * [Responses View](/forms/responses.md)
 
 * Navigation
