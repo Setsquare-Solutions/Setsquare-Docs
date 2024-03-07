@@ -60,7 +60,7 @@ Shortcodes have to be created individually so you aren’t able to pass any info
     * `single=""`             - **true** or **false**, display a single newsletter
     * `id=""`                 - the id number of the single newsletter to display, this can be found in the [newsletters section](/newsletters/list.md)
     * `include-future=""`     - **true** or **false**, whether to allow newsletters from dates in the future to be displayed
-    * `include-latest=""`     - **true** or **false**, whether to include the latest upto date newsletter, this can be useful to ommit if the latest newsletter is display separately to the list of past newsletters
+    * `include-latest=""`     - **true** or **false**, whether to include the latest upto date newsletter, this can be useful to omit if the latest newsletter is display separately to the list of past newsletters
     * `show-empty-message=""` - **true** or **false**, whether to display a message that no newsletters exist, if none could be found matching the other parameters
     * `items=""`              - the number of newsletters to display per page, if more than this number exists then page numbers will be displayed for navigation
     * `limit=""`              - the total number of newsletters to display overall
